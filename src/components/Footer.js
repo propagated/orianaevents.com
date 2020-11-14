@@ -20,6 +20,9 @@ export default function Footer() {
         <li>
           Design: <a href="http://html5up.net">HTML5 UP</a>
         </li>
+        <li>
+          Deployed: <a href="https://petewilliams.space">Pete Williams</a>
+        </li>
       </ul>
     </footer>
   );
