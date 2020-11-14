@@ -28,7 +28,7 @@ body.is-preload,
 
     .more {
       @include vendor('transform', 'none');
-      opacity: 1;
+      opacity: .5;
     }
 
     &:after {
