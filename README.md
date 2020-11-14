@@ -1,7 +1,7 @@
 # [orianaevents.com](http://orianaevents.com)
 A placeholder site for a friend built in gatsby using a ported HTML 5 template.
 
-Based on [gatsby-starter-special](https://github.com/anubhavsrivastava/gatsby-starter-spectral) by Abhunav Srivastava, a port of [spectral](https://html5up.net/spectral)by HTML5up, under the [MIT](https://opensource.org/licenses/MIT) license.
+Based on [gatsby-starter-special](https://github.com/anubhavsrivastava/gatsby-starter-spectral) by Abhunav Srivastava, a port of [spectral](https://html5up.net/spectral) by [HTML5up](https://html5up.net), under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ### Code
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
